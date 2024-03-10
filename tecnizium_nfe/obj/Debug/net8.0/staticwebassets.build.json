@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "S8ZSAIdGi84K5OY06ssVGJ/k/o+4eP4o1e1LNv2Xz0g=",
+  "Source": "tecnizium_nfe",
+  "BasePath": "_content/tecnizium_nfe",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "tecnizium_nfe/wwwroot",
+      "Source": "tecnizium_nfe",
+      "ContentRoot": "/Users/gabryelbatista/Documents/Tests/tecnizium_nfe/tecnizium_nfe/wwwroot/",
+      "BasePath": "_content/tecnizium_nfe",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

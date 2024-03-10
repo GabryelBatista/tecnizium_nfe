@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/gabryelbatista/Documents/Tests/tecnizium_nfe/tecnizium_nfe/wwwroot/certificates/Captura de Tela 2024-03-06 às 12.07.49.png",
+      "PackagePath": "staticwebassets/certificates/Captura de Tela 2024-03-06 às 12.07.49.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.tecnizium_nfe.props",
+      "PackagePath": "build\\tecnizium_nfe.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.tecnizium_nfe.props",
+      "PackagePath": "buildMultiTargeting\\tecnizium_nfe.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.tecnizium_nfe.props",
+      "PackagePath": "buildTransitive\\tecnizium_nfe.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.tecnizium_nfe.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

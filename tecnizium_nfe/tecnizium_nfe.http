@@ -1,0 +1,6 @@
+@tecnizium_nfe_HostAddress = http://localhost:5048
+
+GET {{tecnizium_nfe_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

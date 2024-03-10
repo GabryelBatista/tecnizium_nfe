@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/tecnizium_nfe.props" />
+</Project>
